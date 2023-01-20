@@ -1,0 +1,7 @@
+
+1) How to build ML Architecture with AWS SageMaker + Lambda + API Gateway | HANDS-ON TUTORIAL
+https://www.youtube.com/watch?v=stD47vPDadI
+
+
+2) How to use MLflow on AWS to Better Track your Machine Learning Experiments
+https://www.youtube.com/watch?v=osYRsBVId-A&list=LL&index=4
